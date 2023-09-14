@@ -26,6 +26,11 @@ After step 5 the game will open in your primary browser, and then you can play t
 
 ## Change Logs
 
+### V1.6
+- [Added] Saving Wins per player
+- [Added] Leaderboard
+- [Bug Fix] Not showing of the "Trade Winds" text font if you do not have it on your device
+
 ### V1.5
 - [Added] Grid
 - [Added] Colours and theme's
