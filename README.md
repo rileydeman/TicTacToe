@@ -26,9 +26,9 @@ After step 5 the game will open in your primary browser, and then you can play t
 
 ## Change Logs
 
-.### V1.5
-.- [Added] Grid
-.- [Added] Colours and theme's
-.- [Added] Current Player Show under grid
-.- [Added] Endscreens (winning and draw)
+### V1.5
+- [Added] Grid
+- [Added] Colours and theme's
+- [Added] Current Player Show under grid
+- [Added] Endscreens (winning and draw)
  
