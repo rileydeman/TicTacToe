@@ -31,4 +31,3 @@ After step 5 the game will open in your primary browser, and then you can play t
 - [Added] Colours and theme's
 - [Added] Current Player Show under grid
 - [Added] Endscreens (winning and draw)
- 
